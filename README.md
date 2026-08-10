@@ -14,7 +14,7 @@
 
 <br>
 
-<h3 data-importer="text" align="left">🛠️ Language & tools</h3>
+<h3 data-importer="text" align="left">🛠️ Languages & Tools</h3>
 
 ###
 
