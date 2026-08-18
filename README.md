@@ -57,18 +57,3 @@
 
 - [Aprendiendo TypeScript](https://github.com/BbtoAlcrz/aprendiendo-ts)
   - Repository where I document my TypeScript learning process
-
-<br>
-
-<h3 data-importer="text" align="left">📫 Contact</h3>
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/benito-alcaraz-2035aa264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/alcarxz_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
